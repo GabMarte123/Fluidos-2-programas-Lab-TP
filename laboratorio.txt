@@ -1,0 +1,3 @@
+#1) Graficar velocidad instantánea (componentes u y v) en función del tiempo para y = 0
+#mm. y para y = 50 mm.
+open(00.txt)
