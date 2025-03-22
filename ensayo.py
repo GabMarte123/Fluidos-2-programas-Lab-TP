@@ -56,5 +56,21 @@ A somatória horizontal u é: {somatoria_v_horizontal}\n'''
 
 print(f'''arquivo 00.txt:
 {velocidade_instantanea(arq00)}''')
+print(f'''arquivo 10.txt
+{velocidade_instantanea(arq10)}''')
+print(f'''arquivo 20.txt:
+{velocidade_instantanea(arq20)}''')
+print(f'''arquivo 30.txt
+{velocidade_instantanea(arq30)}''')
+print(f'''arquivo 40.txt:
+{velocidade_instantanea(arq40)}''')
 print(f'''arquivo 50.txt
 {velocidade_instantanea(arq50)}''')
+print(f'''arquivo 60.txt:
+{velocidade_instantanea(arq60)}''')
+print(f'''arquivo 70.txt
+{velocidade_instantanea(arq70)}''')
+print(f'''arquivo 80.txt
+{velocidade_instantanea(arq80)}''')
+
+print('Obrigado por usar este programa')
